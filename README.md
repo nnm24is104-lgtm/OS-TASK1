@@ -229,18 +229,20 @@ in a web browser and click **Start**.
 
 ### Producer–Consumer Output
 
-![Producer Consumer](<img width="931" height="847" alt="Screenshot 2026-09-11 224924" src="https://github.com/user-attachments/assets/7a5f7bcb-87cb-40ff-86ec-50477c5837cd" />
+![Producer Consumer](<img width="931" height="847" alt="Screenshot 2026-09-11 224924" src="https://github.com/user-attachments/assets/4e8fa87f-7b67-4806-81e4-564611322622" />
+
 )
 
 ### Matrix Multiplication Output
 
-![Matrix Output](<img width="1293" height="938" alt="Screenshot 2026-09-11 230147" src="https://github.com/user-attachments/assets/981ebadb-dcbf-402b-8756-475b7cc8e67c" />
-)
+![Matrix Output](<img width="1293" height="938" alt="Screenshot 2026-09-11 230147" src="https://github.com/user-attachments/assets/0a389331-399a-47be-8a5b-823e8d52ea80" />
 
+)
 ### HTML Cloud Animation
 
-![Matrix Animation](<img width="1276" height="896" alt="Screenshot 2026-09-11 230204" src="https://github.com/user-attachments/assets/73617d5f-9118-4b4f-ae24-68e3e1e4c070" />)
+![Matrix Animation](<img width="1276" height="896" alt="Screenshot 2026-09-11 230204" src="https://github.com/user-attachments/assets/398bb695-42a9-4212-9a12-f50193ad478d" />
 
+)
 ---
 
 #  Learning Outcomes
@@ -268,10 +270,6 @@ The HTML animation further provides a visual understanding of how individual thr
 ---
 
 <p align="center">
-
-### 🧵 Operating Systems • Multithreading • Synchronization
-
-**Academic Practical Project**
 
 </p>
 
